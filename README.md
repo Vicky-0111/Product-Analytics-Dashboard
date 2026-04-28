@@ -7,7 +7,7 @@ centralized, interactive interface.
 ---
 
 ## 🚀 Live Demo
-> [Click to View Live](https://your-deployed-link.com)
+> [Click to View Live](product-analytics-dashboard-qtyhn3sai-vicky-0111s-projects.vercel.app)
 
 ---
 
